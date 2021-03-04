@@ -1,6 +1,7 @@
 #DEBUG 10
 put exp 0
 pause 1
+ # put #var LastCyclic 0
 
 # A lucent sphere flickers around you, protecting your spirit.  A weak point in the Soul Shield is exposed, unraveling its energy entirely. ----> Soul Shield dropping due to Soul Attrition.
 # Auspice increases spirit regen, Soul Shield is a shield, Vigil link spirit with someone else.

@@ -1,4 +1,6 @@
 DEBUG 10
+#Herbie script by Boobear
+#v1
 
 # USAGE --> .ad-herbs_make <# desired> <herb name>
 # EXAMPLE: .ad-herbs_make 5 nilos to make 5 nilos ungent

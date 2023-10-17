@@ -1,4 +1,7 @@
 ##DEBUG 10
+#Herbie script by Boobear
+#v1
+
 
 # GoSub MAP_CHECK
 # GoSub ROOM_CHECK 931

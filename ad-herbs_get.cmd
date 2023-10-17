@@ -1,4 +1,7 @@
 DEBUG 10
+#Herbie script by Boobear
+#v1
+
 
 #lujeakave root also room 557 in arthedale (NTR)
  
